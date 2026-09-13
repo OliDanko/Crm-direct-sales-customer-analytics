@@ -214,11 +214,6 @@ FROM marketing
 GROUP BY campaign_priority
 ORDER BY response_rate_pct DESC;
 ```
-
-The full SQL analysis is available here:
-
-[`sql/marketing_analysis.sql`](sql/marketing_analysis.sql)
-
 ---
 
 ## Power BI Dashboard
@@ -235,8 +230,6 @@ Provides an overview of:
 - campaign priorities
 - response rate by purchase channel
 
-![Campaign Overview](images/campaign_overview.png)
-
 ---
 
 ### 2. Retention Analysis
@@ -248,8 +241,6 @@ Focuses on:
 - historical response comparison
 - customer value
 - detailed retention customer list
-
-![Retention Analysis](images/retention_analysis.png)
 
 ---
 
