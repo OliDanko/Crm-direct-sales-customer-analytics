@@ -254,8 +254,6 @@ Focuses on:
 - channel performance
 - detailed candidate list
 
-![Cross-sell Analysis](images/cross_sell_analysis.png)
-
 ---
 
 ## Key Results
