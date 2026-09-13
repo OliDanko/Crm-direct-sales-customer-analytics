@@ -5,6 +5,14 @@ Customer segmentation and campaign targeting project focused on identifying acti
 
 The project combines **Excel, Power Query, SQL and Power BI** to transform raw customer data into customer segments, campaign priorities and concrete customer lists that could be used by a CRM or Direct Sales team.
 
+## Project Files
+
+| File | Description |
+|---|---|
+| [Marketing_dashboard.xlsx](Marketing_dashboard.xlsx) | Excel / Power Query data preparation and supporting analysis |
+| [marketing_analysis.SQL](marketing_analysis.SQL) | SQL analysis and customer targeting |
+| [marketing_dashboard.pbip](marketing_dashboard.pbip) | Power BI dashboard project |
+
 ---
 
 ## Business Goal
