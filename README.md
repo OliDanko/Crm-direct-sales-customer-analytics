@@ -1,8 +1,7 @@
-# Crm-direct-sales-customer-analytics
-Customer segmentation, retention and cross-sell analysis using Excel, Power Query, SQL and Power BI.
 # CRM & Direct Sales Customer Analytics
 
 Customer segmentation and campaign targeting project focused on identifying actionable customer audiences for **cross-sell, retention and CRM campaigns**.
+
 
 The project combines **Excel, Power Query, SQL and Power BI** to transform raw customer data into customer segments, campaign priorities and concrete customer lists that could be used by a CRM or Direct Sales team.
 
